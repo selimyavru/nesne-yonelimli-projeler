@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1431447292 source:c:\users\selim yavru\desktop\yigit\src\kisi.cpp
+	"Kisi.h"
+
+1431447150 c:\users\selim yavru\desktop\yigit\include\kisi.h
+	<iostream>
+	<string>
+
+1431448007 source:c:\users\selim yavru\desktop\yigit\src\yigit.cpp
+	"Yigit.h"
+	"Kisi.h"
+
+1431447451 c:\users\selim yavru\desktop\yigit\include\yigit.h
+	<vector>
+	<stdexcept>
+
