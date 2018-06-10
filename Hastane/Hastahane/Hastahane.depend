@@ -1,0 +1,186 @@
+# depslib dependency file v1.0
+1429497192 source:/home/erdem/Masaüstü/Hastahane/main.cpp
+	"Hastane.h"
+
+1429564678 /home/erdem/Masaüstü/Hastahane/include/Hastane.h
+	<iomanip>
+	<vector>
+	"BasHekim.h"
+	"Doktor.h"
+	"Asistan.h"
+
+1429564154 /home/erdem/Masaüstü/Hastahane/include/BasHekim.h
+	<iomanip>
+	"Yonetici.h"
+	"Kisi.h"
+
+1429498024 /home/erdem/Masaüstü/Hastahane/include/Yonetici.h
+	"Calisan.h"
+
+1429497632 /home/erdem/Masaüstü/Hastahane/include/Calisan.h
+	<iostream>
+
+1429497561 /home/erdem/Masaüstü/Hastahane/include/Kisi.h
+	<iostream>
+
+1429563914 /home/erdem/Masaüstü/Hastahane/include/Doktor.h
+	<iomanip>
+	"Kisi.h"
+	"Calisan.h"
+
+1429562651 /home/erdem/Masaüstü/Hastahane/include/Asistan.h
+	<iomanip>
+	"Ogrenci.h"
+	"Kisi.h"
+	"Calisan.h"
+
+1429497479 /home/erdem/Masaüstü/Hastahane/include/Ogrenci.h
+	<iostream>
+
+1429563413 source:/home/erdem/Masaüstü/Hastahane/src/Asistan.cpp
+	"Asistan.h"
+
+1429563866 source:/home/erdem/Masaüstü/Hastahane/src/BasHekim.cpp
+	"BasHekim.h"
+
+1429499650 source:/home/erdem/Masaüstü/Hastahane/src/Calisan.cpp
+	"Calisan.h"
+
+1429564153 source:/home/erdem/Masaüstü/Hastahane/src/Hastane.cpp
+	"Hastane.h"
+
+1429499571 source:/home/erdem/Masaüstü/Hastahane/src/Kisi.cpp
+	"Kisi.h"
+
+1429499488 source:/home/erdem/Masaüstü/Hastahane/src/Ogrenci.cpp
+	"Ogrenci.h"
+
+1429563724 source:/home/erdem/Masaüstü/Hastahane/src/Yonetici.cpp
+	"Yonetici.h"
+
+1429630524 source:h:\hastahane\hastahane\main.cpp
+	"Hastane.h"
+	<iostream>
+
+1429568278 h:\hastahane\hastahane\include\hastane.h
+	<iomanip>
+	<vector>
+	"BasHekim.h"
+	"Doktor.h"
+	"Asistan.h"
+
+1429567754 h:\hastahane\hastahane\include\bashekim.h
+	<iomanip>
+	"Yonetici.h"
+	"Kisi.h"
+
+1429501624 h:\hastahane\hastahane\include\yonetici.h
+	"Calisan.h"
+
+1429630584 h:\hastahane\hastahane\include\calisan.h
+	<iostream>
+
+1429630584 h:\hastahane\hastahane\include\kisi.h
+	<iostream>
+
+1429567514 h:\hastahane\hastahane\include\doktor.h
+	<iomanip>
+	"Kisi.h"
+	"Calisan.h"
+
+1429630584 h:\hastahane\hastahane\include\asistan.h
+	<iomanip>
+	"Ogrenci.h"
+	"Kisi.h"
+	"Calisan.h"
+
+1429630584 h:\hastahane\hastahane\include\ogrenci.h
+	<iostream>
+
+1429568128 source:h:\hastahane\hastahane\src\asistan.cpp
+	"Asistan.h"
+
+1429568100 source:h:\hastahane\hastahane\src\bashekim.cpp
+	"BasHekim.h"
+
+1429503250 source:h:\hastahane\hastahane\src\calisan.cpp
+	"Calisan.h"
+
+1429568118 source:h:\hastahane\hastahane\src\doktor.cpp
+	"Doktor.h"
+
+1429568470 source:h:\hastahane\hastahane\src\hastane.cpp
+	"Hastane.h"
+
+1429503172 source:h:\hastahane\hastahane\src\kisi.cpp
+	"Kisi.h"
+
+1429503088 source:h:\hastahane\hastahane\src\ogrenci.cpp
+	"Ogrenci.h"
+
+1429567324 source:h:\hastahane\hastahane\src\yonetici.cpp
+	"Yonetici.h"
+
+1429626924 source:c:\users\selim\desktop\hastahane\hastahane\main.cpp
+	"Hastane.h"
+	<iostream>
+
+1429564678 c:\users\selim\desktop\hastahane\hastahane\include\hastane.h
+	<iomanip>
+	<vector>
+	"BasHekim.h"
+	"Doktor.h"
+	"Asistan.h"
+
+1429564154 c:\users\selim\desktop\hastahane\hastahane\include\bashekim.h
+	<iomanip>
+	"Yonetici.h"
+	"Kisi.h"
+
+1429498024 c:\users\selim\desktop\hastahane\hastahane\include\yonetici.h
+	"Calisan.h"
+
+1429626984 c:\users\selim\desktop\hastahane\hastahane\include\calisan.h
+	<iostream>
+
+1429626984 c:\users\selim\desktop\hastahane\hastahane\include\kisi.h
+	<iostream>
+
+1429563914 c:\users\selim\desktop\hastahane\hastahane\include\doktor.h
+	<iomanip>
+	"Kisi.h"
+	"Calisan.h"
+
+1429626984 c:\users\selim\desktop\hastahane\hastahane\include\asistan.h
+	<iomanip>
+	"Ogrenci.h"
+	"Kisi.h"
+	"Calisan.h"
+
+1429626984 c:\users\selim\desktop\hastahane\hastahane\include\ogrenci.h
+	<iostream>
+
+1429564528 source:c:\users\selim\desktop\hastahane\hastahane\src\asistan.cpp
+	"Asistan.h"
+
+1429564500 source:c:\users\selim\desktop\hastahane\hastahane\src\bashekim.cpp
+	"BasHekim.h"
+
+1429499650 source:c:\users\selim\desktop\hastahane\hastahane\src\calisan.cpp
+	"Calisan.h"
+
+1429564518 source:c:\users\selim\desktop\hastahane\hastahane\src\doktor.cpp
+	"Doktor.h"
+
+1429564870 source:c:\users\selim\desktop\hastahane\hastahane\src\hastane.cpp
+	"Hastane.h"
+
+1429499572 source:c:\users\selim\desktop\hastahane\hastahane\src\kisi.cpp
+	"Kisi.h"
+
+1429499488 source:c:\users\selim\desktop\hastahane\hastahane\src\ogrenci.cpp
+	"Ogrenci.h"
+
+1429563724 source:c:\users\selim\desktop\hastahane\hastahane\src\yonetici.cpp
+	"Yonetici.h"
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Hastahane" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Hastahane" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Hastahane" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Asistan.h" />
+		<Unit filename="include/BasHekim.h" />
+		<Unit filename="include/Calisan.h" />
+		<Unit filename="include/Doktor.h" />
+		<Unit filename="include/Hastane.h" />
+		<Unit filename="include/Kisi.h" />
+		<Unit filename="include/Ogrenci.h" />
+		<Unit filename="include/Yonetici.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Asistan.cpp" />
+		<Unit filename="src/BasHekim.cpp" />
+		<Unit filename="src/Calisan.cpp" />
+		<Unit filename="src/Doktor.cpp" />
+		<Unit filename="src/Hastane.cpp" />
+		<Unit filename="src/Kisi.cpp" />
+		<Unit filename="src/Ogrenci.cpp" />
+		<Unit filename="src/Yonetici.cpp" />
+		<Extensions>
+			<envvars />
+			<code_completion />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
