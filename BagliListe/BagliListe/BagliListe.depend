@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1431471731 source:c:\users\selim yavru\desktop\bagliliste\main.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"Kisi.h"
+	"BagliListe.h"
+
+1431456417 c:\users\selim yavru\desktop\bagliliste\include\kisi.h
+	<string>
+	<iostream>
+
+1431471716 c:\users\selim yavru\desktop\bagliliste\include\bagliliste.h
+	<iostream>
+	"Dugum.h"
+
+1431456628 c:\users\selim yavru\desktop\bagliliste\include\dugum.h
+	"Kisi.h"
+	<iostream>
+
+1431456243 source:c:\users\selim yavru\desktop\bagliliste\src\bagliliste.cpp
+	"BagliListe.h"
+
+1431456314 source:c:\users\selim yavru\desktop\bagliliste\src\dugum.cpp
+	"Dugum.h"
+	"Kisi.h"
+
+1431456520 source:c:\users\selim yavru\desktop\bagliliste\src\kisi.cpp
+	"Kisi.h"
+
