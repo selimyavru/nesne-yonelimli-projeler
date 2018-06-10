@@ -1,0 +1,161 @@
+------------------------------------
+ABC Pastanesi
+------------------------------------
+1. Yeni Urun
+2. Yeni Siparis
+3. Urunleri Listele
+4. Siparisleri Listele
+
+0. Cikis
+------------------------------------
+Yapmak istediginiz islemi seciniz: 1
+
+Urun barkodunu giriniz: 123
+Urun adini giriniz: Ekler
+Kiloyla mi satiliyor (Evet: E/e, Hayir: H/h): h
+Urun adet fiyatini giriniz: 0.5
+
+Devam etmek icin bir tusa basin...
+
+------------------------------------
+ABC Pastanesi
+------------------------------------
+1. Yeni Urun
+2. Yeni Siparis
+3. Urunleri Listele
+4. Siparisleri Listele
+
+0. Cikis
+------------------------------------
+Yapmak istediginiz islemi seciniz: 1
+
+Urun barkodunu giriniz: 124
+Urun adini giriniz: Baklava
+Kiloyla mi satiliyor (Evet: E/e, Hayir: H/h): e
+Urun kg fiyatini giriniz: 20
+
+Devam etmek icin bir tusa basin...
+
+------------------------------------
+ABC Pastanesi
+------------------------------------
+1. Yeni Urun
+2. Yeni Siparis
+3. Urunleri Listele
+4. Siparisleri Listele
+
+0. Cikis
+------------------------------------
+Yapmak istediginiz islemi seciniz: 3
+
+--------------------------------------------------------
+Barkod No Urun Adi                      Fiyat Kg/Adet   
+--------------------------------------------------------
+123       Ekler                           0.5 Adet      
+124       Baklava                          20 Kg        
+--------------------------------------------------------
+Listelenen toplam urun sayisi: 2
+
+Devam etmek icin bir tusa basin...
+
+------------------------------------
+ABC Pastanesi
+------------------------------------
+1. Yeni Urun
+2. Yeni Siparis
+3. Urunleri Listele
+4. Siparisleri Listele
+
+0. Cikis
+------------------------------------
+Yapmak istediginiz islemi seciniz: 2
+
+Siparise urun eklemek icin urun barkodunu giriniz
+veya siparisi sonlandirmak icin 0 giriniz: 123
+Kac adet Ekler siparis edildi: 30
+
+Siparise urun eklemek icin urun barkodunu giriniz
+veya siparisi sonlandirmak icin 0 giriniz: 124
+Kac kilo Baklava siparis edildi: 2.5
+
+Siparise urun eklemek icin urun barkodunu giriniz
+veya siparisi sonlandirmak icin 0 giriniz: 0
+
+----------------------------------------------
+Urun Adi                     Kg/Adet     Tutar
+----------------------------------------------
+Ekler                             30        15
+Baklava                          2.5        50
+----------------------------------------------
+Toplam Tutar:                               65
+
+Devam etmek icin bir tusa basin...
+
+------------------------------------
+ABC Pastanesi
+------------------------------------
+1. Yeni Urun
+2. Yeni Siparis
+3. Urunleri Listele
+4. Siparisleri Listele
+
+0. Cikis
+------------------------------------
+Yapmak istediginiz islemi seciniz: 2
+
+Siparise urun eklemek icin urun barkodunu giriniz
+veya siparisi sonlandirmak icin 0 giriniz: 124
+Kac kilo Baklava siparis edildi: 1.5
+
+Siparise urun eklemek icin urun barkodunu giriniz
+veya siparisi sonlandirmak icin 0 giriniz: 0
+
+----------------------------------------------
+Urun Adi                     Kg/Adet     Tutar
+----------------------------------------------
+Baklava                          1.5        30
+----------------------------------------------
+Toplam Tutar:                               30
+
+Devam etmek icin bir tusa basin...
+
+------------------------------------
+ABC Pastanesi
+------------------------------------
+1. Yeni Urun
+2. Yeni Siparis
+3. Urunleri Listele
+4. Siparisleri Listele
+
+0. Cikis
+------------------------------------
+Yapmak istediginiz islemi seciniz: 4
+
+----------------------------------------------
+Urun Adi                     Kg/Adet     Tutar
+----------------------------------------------
+Ekler                             30        15
+Baklava                          2.5        50
+----------------------------------------------
+Baklava                          1.5        30
+----------------------------------------------
+Toplam Tutar:                               95
+----------------------------------------------
+Listelenen toplam siparis sayisi: 2
+
+Devam etmek icin bir tusa basin...
+
+------------------------------------
+ABC Pastanesi
+------------------------------------
+1. Yeni Urun
+2. Yeni Siparis
+3. Urunleri Listele
+4. Siparisleri Listele
+
+0. Cikis
+------------------------------------
+Yapmak istediginiz islemi seciniz: 0
+
+Program kapatiliyor...
+Iyi gunler
