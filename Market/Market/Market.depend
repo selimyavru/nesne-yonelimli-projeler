@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1426620797 source:c:\users\selim yavru\desktop\market\main.cpp
+	<iostream>
+	"Market.h"
+	"Urun.h"
+
+1426620625 c:\users\selim yavru\desktop\market\include\market.h
+	<iostream>
+	<vector>
+	"Urun.h"
+
+1426619948 c:\users\selim yavru\desktop\market\include\urun.h
+	<iostream>
+
+1426621548 source:c:\users\selim yavru\desktop\market\src\market.cpp
+	"Market.h"
+	<iomanip>
+	<iostream>
+	"Urun.h"
+	<vector>
+	<cmath>
+
+1426426589 source:c:\users\selim yavru\desktop\market\src\urun.cpp
+	"Urun.h"
+	<iostream>
+
+1426620798 source:i:\lab2\market\main.cpp
+	<iostream>
+	"Market.h"
+	"Urun.h"
+
+1426620626 i:\lab2\market\include\market.h
+	<iostream>
+	<vector>
+	"Urun.h"
+
+1426619950 i:\lab2\market\include\urun.h
+	<iostream>
+
+1426625154 source:i:\lab2\market\src\market.cpp
+	"Market.h"
+	<iomanip>
+	<iostream>
+	"Urun.h"
+	<vector>
+	<cmath>
+
+1426426590 source:i:\lab2\market\src\urun.cpp
+	"Urun.h"
+	<iostream>
+

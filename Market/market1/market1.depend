@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1426619601 source:c:\users\selim yavru\desktop\market1\src\market.cpp
+	"Market.h"
+	<iomanip>
+	"Urun.h"
+
+1426619204 c:\users\selim yavru\desktop\market1\include\market.h
+	<vector>
+	<iostream>
+	"Urun.h"
+
+1426619238 c:\users\selim yavru\desktop\market1\include\urun.h
+	<iostream>
+
+1426619273 source:c:\users\selim yavru\desktop\market1\src\urun.cpp
+	"Urun.h"
+	<string>
+
+1426619395 source:c:\users\selim yavru\desktop\market1\main.cpp
+	<iostream>
+	"Market.h"
+	"Urun.h"
+
+1426619396 source:i:\lab2\market1\main.cpp
+	<iostream>
+	"Market.h"
+	"Urun.h"
+
+1426635714 i:\lab2\market1\include\market.h
+	<vector>
+	<iostream>
+	"Urun.h"
+
+1426619240 i:\lab2\market1\include\urun.h
+	<iostream>
+
+1426619602 source:i:\lab2\market1\src\market.cpp
+	"Market.h"
+	<iomanip>
+	"Urun.h"
+
+1426619274 source:i:\lab2\market1\src\urun.cpp
+	"Urun.h"
+	<string>
+
+1426619396 source:f:\lab2\market1\main.cpp
+	<iostream>
+	"Market.h"
+	"Urun.h"
+
+1426635714 f:\lab2\market1\include\market.h
+	<vector>
+	<iostream>
+	"Urun.h"
+
+1426619240 f:\lab2\market1\include\urun.h
+	<iostream>
+
+1426619602 source:f:\lab2\market1\src\market.cpp
+	"Market.h"
+	<iomanip>
+	"Urun.h"
+
+1426619274 source:f:\lab2\market1\src\urun.cpp
+	"Urun.h"
+	<string>
+
