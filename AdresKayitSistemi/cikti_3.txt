@@ -1,0 +1,44 @@
+Adres Kayit Sistemi
+-------------------
+1. Kisi Ekle
+2. Kisi Sil
+3. Kisileri Listele
+4. Adres Degisikligi
+5. Dosyaya Kaydet
+6. Dosyadan Oku
+
+0. Cikis
+Islem seciniz: 6
+
+Dosya adi giriniz: kisiler2.txt
+
+Adres Kayit Sistemi
+-------------------
+1. Kisi Ekle
+2. Kisi Sil
+3. Kisileri Listele
+4. Adres Degisikligi
+5. Dosyaya Kaydet
+6. Dosyadan Oku
+
+0. Cikis
+Islem seciniz: 3
+
+Kisiler
+-------
+1. 123 Ad1 Soyad1    Kecioren / Ankara
+2. 125 Ad3 Soyad3  Mucur / Kirsehir
+
+Adres Kayit Sistemi
+-------------------
+1. Kisi Ekle
+2. Kisi Sil
+3. Kisileri Listele
+4. Adres Degisikligi
+5. Dosyaya Kaydet
+6. Dosyadan Oku
+
+0. Cikis
+Islem seciniz: 0
+
+Program kapatiliyor...
