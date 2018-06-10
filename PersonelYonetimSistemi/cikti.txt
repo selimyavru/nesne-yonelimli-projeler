@@ -1,0 +1,138 @@
+Personel Yonetim Sistemi
+----------------------
+1. Personel Ekle
+2. Personel Sil
+3. Personelleri Listele
+
+0. Cikis
+Islem secin: 1
+
+1. Calisan
+2. Teknisyen
+3. Muhendis
+4. Mudur Yardimcisi
+5. Mudur
+Personel turu secin: 1
+Calisanin adini giriniz: Ad1
+Calisanin soyadini giriniz: Soyad1
+
+Personel Yonetim Sistemi
+----------------------
+1. Personel Ekle
+2. Personel Sil
+3. Personelleri Listele
+
+0. Cikis
+Islem secin: 1
+
+1. Calisan
+2. Teknisyen
+3. Muhendis
+4. Mudur Yardimcisi
+5. Mudur
+Personel turu secin: 2
+Teknisyenin adini giriniz: Ad2
+Teknisyenin soyadini giriniz: Soyad2
+
+Personel Yonetim Sistemi
+----------------------
+1. Personel Ekle
+2. Personel Sil
+3. Personelleri Listele
+
+0. Cikis
+Islem secin: 1
+
+1. Calisan
+2. Teknisyen
+3. Muhendis
+4. Mudur Yardimcisi
+5. Mudur
+Personel turu secin: 3
+Muhendisin adini giriniz: Ad3
+Muhendisin soyadini giriniz: Soyad3
+Muhendisin projesini giriniz: Proje1
+
+Personel Yonetim Sistemi
+----------------------
+1. Personel Ekle
+2. Personel Sil
+3. Personelleri Listele
+
+0. Cikis
+Islem secin: 1
+
+1. Calisan
+2. Teknisyen
+3. Muhendis
+4. Mudur Yardimcisi
+5. Mudur
+Personel turu secin: 4
+Mudur Yardimcininin adini giriniz: Ad4
+Mudur Yardimcininin soyadini giriniz: Soyad4
+Mudur Yardimcininin bolumunu giriniz: Bolum1
+
+Personel Yonetim Sistemi
+----------------------
+1. Personel Ekle
+2. Personel Sil
+3. Personelleri Listele
+
+0. Cikis
+Islem secin: 1
+
+1. Calisan
+2. Teknisyen
+3. Muhendis
+4. Mudur Yardimcisi
+5. Mudur
+Personel turu secin: 5
+Mudurun adini giriniz: Ad5
+Mudurun soyadini giriniz: Soyad5
+Mudurun bolumunu giriniz: Bolum2
+
+Personel Yonetim Sistemi
+----------------------
+1. Personel Ekle
+2. Personel Sil
+3. Personelleri Listele
+
+0. Cikis
+Islem secin: 2
+
+   No        Ad     Soyad     Gorev      Maas     Proje     Bolum
+-----------------------------------------------------------------
+    1       Ad1    Soyad1   Calisan      2000
+    2       Ad2    Soyad2 Teknisyen      2000
+    3       Ad3    Soyad3  Muhendis      4000    Proje1
+    4       Ad4    Soyad4   M.Yard.      5000              Bolum1
+    5       Ad5    Soyad5     Mudur      6000              Bolum2
+Silmek istediginiz personelin nosunu giriniz: 2
+
+Personel Yonetim Sistemi
+----------------------
+1. Personel Ekle
+2. Personel Sil
+3. Personelleri Listele
+
+0. Cikis
+Islem secin: 3
+
+   No        Ad     Soyad     Gorev      Maas     Proje     Bolum
+-----------------------------------------------------------------
+    1       Ad1    Soyad1   Calisan      2000
+    2       Ad3    Soyad3  Muhendis      4000    Proje1
+    3       Ad4    Soyad4   M.Yard.      5000              Bolum1
+    4       Ad5    Soyad5     Mudur      6000              Bolum2
+
+Personel Yonetim Sistemi
+----------------------
+1. Personel Ekle
+2. Personel Sil
+3. Personelleri Listele
+
+0. Cikis
+Islem secin: 0
+
+Program kapatiliyor...
+
