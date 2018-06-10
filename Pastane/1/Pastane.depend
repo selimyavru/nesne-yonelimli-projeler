@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1427033350 source:c:\users\oguzhan\desktop\pastane\main.cpp
+	<iostream>
+	"Pastane.h"
+
+1427033406 c:\users\oguzhan\desktop\pastane\include\pastane.h
+	<Urun.h>
+	<Siparis.h>
+	<vector>
+	<iostream>
+
+1427042227 c:\users\oguzhan\desktop\pastane\include\urun.h
+	<iostream>
+
+1427042214 c:\users\oguzhan\desktop\pastane\include\siparis.h
+	<Urun.h>
+	<iostream>
+	<vector>
+
+1427138828 source:c:\users\oguzhan\desktop\pastane\src\pastane.cpp
+	"Pastane.h"
+	<iostream>
+	<Urun.h>
+	<Siparis.h>
+	<vector>
+
+1427046178 source:c:\users\oguzhan\desktop\pastane\src\siparis.cpp
+	"Siparis.h"
+	<iostream>
+	<Urun.h>
+
+1427138912 source:c:\users\oguzhan\desktop\pastane\src\urun.cpp
+	"Urun.h"
+	<iostream>
+	<Pastane.h>
+	<vector>
+
+1427033350 source:c:\users\selim yavru\desktop\1\main.cpp
+	<iostream>
+	"Pastane.h"
+
+1427152605 c:\users\selim yavru\desktop\1\include\pastane.h
+	<Urun.h>
+	<Siparis.h>
+	<vector>
+	<iostream>
+
+1427152205 c:\users\selim yavru\desktop\1\include\urun.h
+	<iostream>
+
+1427152205 c:\users\selim yavru\desktop\1\include\siparis.h
+	<Urun.h>
+	<iostream>
+	<vector>
+
+1427046178 source:c:\users\selim yavru\desktop\1\src\siparis.cpp
+	"Siparis.h"
+	<iostream>
+	<Urun.h>
+
+1427150875 source:c:\users\selim yavru\desktop\1\src\urun.cpp
+	"Urun.h"
+	<iostream>
+	<Pastane.h>
+	<vector>
+
+1427152503 source:c:\users\selim yavru\desktop\1\src\pastane.cpp
+	"Pastane.h"
+	<iostream>
+	<Urun.h>
+	<Siparis.h>
+	<vector>
+
+1427033352 source:f:\lab3\1\main.cpp
+	<iostream>
+	"Pastane.h"
+
+1427152606 f:\lab3\1\include\pastane.h
+	<Urun.h>
+	<Siparis.h>
+	<vector>
+	<iostream>
+
+1427152206 f:\lab3\1\include\urun.h
+	<iostream>
+
+1427152206 f:\lab3\1\include\siparis.h
+	<Urun.h>
+	<iostream>
+	<vector>
+
+1427152504 source:f:\lab3\1\src\pastane.cpp
+	"Pastane.h"
+	<iostream>
+	<Urun.h>
+	<Siparis.h>
+	<vector>
+
+1427046180 source:f:\lab3\1\src\siparis.cpp
+	"Siparis.h"
+	<iostream>
+	<Urun.h>
+
+1427152786 source:f:\lab3\1\src\urun.cpp
+	"Urun.h"
+	<iostream>
+	<Pastane.h>
+	<vector>
+

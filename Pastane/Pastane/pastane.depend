@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1427063717 source:c:\users\selim yavru\desktop\pastane\main.cpp
+	<iostream>
+	"Pastane.h"
+
+1427240645 c:\users\selim yavru\desktop\pastane\include\pastane.h
+	<iostream>
+	<vector>
+	"Siparis.h"
+	"Urun.h"
+
+1427241278 c:\users\selim yavru\desktop\pastane\include\siparis.h
+	"Urun.h"
+	<vector>
+	<iostream>
+
+1427241348 c:\users\selim yavru\desktop\pastane\include\urun.h
+	<iostream>
+
+1427242662 source:c:\users\selim yavru\desktop\pastane\src\siparis.cpp
+	"Siparis.h"
+	<iostream>
+	<iomanip>
+	"Urun.h"
+
+1427242662 source:c:\users\selim yavru\desktop\pastane\src\urun.cpp
+	"Urun.h"
+	<iomanip>
+
+1427242570 source:c:\users\selim yavru\desktop\pastane\src\pastane.cpp
+	"Pastane.h"
+	<iostream>
+	<iomanip>
+	"Siparis.h"
+	"Urun.h"
+
+1427063718 source:i:\lab3\pastane\main.cpp
+	<iostream>
+	"Pastane.h"
+
+1427240646 i:\lab3\pastane\include\pastane.h
+	<iostream>
+	<vector>
+	"Siparis.h"
+	"Urun.h"
+
+1427241280 i:\lab3\pastane\include\siparis.h
+	"Urun.h"
+	<vector>
+	<iostream>
+
+1427241350 i:\lab3\pastane\include\urun.h
+	<iostream>
+
+1427242572 source:i:\lab3\pastane\src\pastane.cpp
+	"Pastane.h"
+	<iostream>
+	<iomanip>
+	"Siparis.h"
+	"Urun.h"
+
+1427242664 source:i:\lab3\pastane\src\siparis.cpp
+	"Siparis.h"
+	<iostream>
+	<iomanip>
+	"Urun.h"
+
+1427242972 source:i:\lab3\pastane\src\urun.cpp
+	"Urun.h"
+	<iomanip>
+
+1427063718 source:f:\lab3\pastane\main.cpp
+	<iostream>
+	"Pastane.h"
+
+1427240646 f:\lab3\pastane\include\pastane.h
+	<iostream>
+	<vector>
+	"Siparis.h"
+	"Urun.h"
+
+1427241280 f:\lab3\pastane\include\siparis.h
+	"Urun.h"
+	<vector>
+	<iostream>
+
+1427241350 f:\lab3\pastane\include\urun.h
+	<iostream>
+
+1427242572 source:f:\lab3\pastane\src\pastane.cpp
+	"Pastane.h"
+	<iostream>
+	<iomanip>
+	"Siparis.h"
+	"Urun.h"
+
+1427242664 source:f:\lab3\pastane\src\siparis.cpp
+	"Siparis.h"
+	<iostream>
+	<iomanip>
+	"Urun.h"
+
+1427242972 source:f:\lab3\pastane\src\urun.cpp
+	"Urun.h"
+	<iomanip>
+

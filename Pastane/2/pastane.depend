@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1427063717 source:c:\users\selim yavru\desktop\pastane\main.cpp
+	<iostream>
+	"Pastane.h"
+
+1427064625 c:\users\selim yavru\desktop\pastane\include\pastane.h
+	<iostream>
+	<vector>
+	"Siparis.h"
+	"Urun.h"
+
+1427065009 c:\users\selim yavru\desktop\pastane\include\siparis.h
+	"Urun.h"
+	<vector>
+
+1427065626 c:\users\selim yavru\desktop\pastane\include\urun.h
+	<iostream>
+
+1427065461 source:c:\users\selim yavru\desktop\pastane\src\siparis.cpp
+	"Siparis.h"
+
+1427065626 source:c:\users\selim yavru\desktop\pastane\src\urun.cpp
+	"Urun.h"
+
+1427065419 source:c:\users\selim yavru\desktop\pastane\src\pastane.cpp
+	"Pastane.h"
+
