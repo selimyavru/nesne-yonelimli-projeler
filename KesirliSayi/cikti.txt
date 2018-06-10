@@ -1,0 +1,149 @@
+Bil 112 Lab - Kesirli Sayi Degerlendirmesi
+------------------------------------
+KesirliSayi() ve operator=(KesirliSayi ks) testi:
+Expected : 0/1
+Actual   : 0/1, testi gecti.
+
+Expected : 0/1
+Actual   : 0/1, testi gecti.
+
+KesirliSayi(int pay, int payda) ve sadelestir() testi:
+Expected : 1/7
+Actual   : 1/7, testi gecti.
+
+Expected : 1/7
+Actual   : 1/7, testi gecti.
+
+KesirliSayi(int tamsayi) testi:
+Expected : -5/1
+Actual   : -5/1, testi gecti.
+
+operator=(int tamsayi) testi:
+Expected : 4/1
+Actual   : 4/1, testi gecti.
+
+operator+(KesirliSayi ks), paydaEsitle(KesirliSayi& ks) testi:
+Expected : 1/2
+Actual   : 1/2, testi gecti.
+
+Expected : 1/2
+Actual   : 1/2, testi gecti.
+
++ isleminden sonra isleme giren nesneler degismemeli:
+Expected : 3/10
+Actual   : 3/10, testi gecti.
+
+operator-(KesirliSayi ks) testi:
+Expected : 1/5
+Actual   : 1/5, testi gecti.
+
+- isleminden sonra isleme giren nesneler degismemeli:
+Expected : 1/2
+Actual   : 1/2, testi gecti.
+
+operator*(KesirliSayi ks) testi:
+Expected : 5/49
+Actual   : 5/49, testi gecti.
+
+* isleminden sonra isleme giren nesneler degismemeli:
+Expected : 2/7
+Actual   : 2/7, testi gecti.
+
+operator/(KesirliSayi ks) testi:
+Expected : 6/5
+Actual   : 6/5, testi gecti.
+
+/ isleminden sonra isleme giren nesneler degismemeli:
+Expected : 3/7
+Actual   : 3/7, testi gecti.
+
+operator+=(KesirliSayi ks) testi:
+Expected : 1/2
+Actual   : 1/2, testi gecti.
+
+operator-=(KesirliSayi ks) testi:
+Expected : 1/5
+Actual   : 1/5, testi gecti.
+
+operator*=(KesirliSayi ks) testi:
+Expected : 5/49
+Actual   : 5/49, testi gecti.
+
+operator/=(KesirliSayi ks) testi:
+Expected : 6/5
+Actual   : 6/5, testi gecti.
+
+operator++() testi:
+Expected : 10/7
+Actual   : 10/7, testi gecti.
+
+operator++() operatorunde isleme giren kesirli sayida 1 artmali:
+Expected : 10/7
+Actual   : 10/7, testi gecti.
+
+operator++(int i) testi:
+Expected : 3/7
+Actual   : 3/7, testi gecti.
+
+operator++(int i) operatorunde sadece isleme giren kesirli sayi 1 artmali:
+Expected : 10/7
+Actual   : 10/7, testi gecti.
+
+operator==(KesirliSayi ks) false testi:
+Expected : 0
+Actual   : 0, testi gecti.
+
+operator==(KesirliSayi ks) true testi:
+Expected : 1
+Actual   : 1, testi gecti.
+
+operator!=(KesirliSayi ks) false testi:
+Expected : 0
+Actual   : 0, testi gecti.
+
+operator!=(KesirliSayi ks) true testi:
+Expected : 1
+Actual   : 1, testi gecti.
+
+operator<(KesirliSayi ks) false testi:
+Expected : 0
+Actual   : 0, testi gecti.
+
+operator<(KesirliSayi ks) true testi:
+Expected : 1
+Actual   : 1, testi gecti.
+
+operator>(KesirliSayi ks) false testi:
+Expected : 0
+Actual   : 0, testi gecti.
+
+operator>(KesirliSayi ks) true testi:
+Expected : 1
+Actual   : 1, testi gecti.
+
+operator<=(KesirliSayi ks) false testi:
+Expected : 0
+Actual   : 0, testi gecti.
+
+operator<=(KesirliSayi ks) true testi:
+Expected : 1
+Actual   : 1, testi gecti.
+
+operator>=(KesirliSayi ks) false testi:
+Expected : 0
+Actual   : 0, testi gecti.
+
+operator>=(KesirliSayi ks) true testi:
+Expected : 1
+Actual   : 1, testi gecti.
+
+operator>>(istream& ist, KesirliSayi& ks) testi:
+Expected : -1/7
+Actual   : -1/7, testi gecti.
+
+operator<<(ostream& ost, const KesirliSayi& ks) testi:
+Expected : -1/7
+Actual   : -1/7, testi gecti.
+
+Notunuz  : 100
+
