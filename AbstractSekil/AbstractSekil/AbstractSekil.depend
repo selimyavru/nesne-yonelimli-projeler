@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1430677033 source:c:\users\selim yavru\desktop\abstractsekil\main.cpp
+	<iostream>
+	<iomanip>
+	"Sekil.h"
+	"Ucgen.h"
+	"DikUcgen.h"
+	"Daire.h"
+	"Dikdortgen.h"
+	"Kare.h"
+
+1430680279 source:c:\users\selim yavru\desktop\abstractsekil\src\daire.cpp
+	"Daire.h"
+
+1430678639 c:\users\selim yavru\desktop\abstractsekil\include\daire.h
+	<iostream>
+	"Sekil.h"
+
+1430680989 source:c:\users\selim yavru\desktop\abstractsekil\src\dikdortgen.cpp
+	"Dikdortgen.h"
+
+1430677603 c:\users\selim yavru\desktop\abstractsekil\include\dikdortgen.h
+	<iostream>
+	"Sekil.h"
+
+1430680924 source:c:\users\selim yavru\desktop\abstractsekil\src\dikucgen.cpp
+	"DikUcgen.h"
+
+1430677603 c:\users\selim yavru\desktop\abstractsekil\include\dikucgen.h
+	<iostream>
+	"Ucgen.h"
+
+1430679734 source:c:\users\selim yavru\desktop\abstractsekil\src\kare.cpp
+	"Kare.h"
+
+1430677477 c:\users\selim yavru\desktop\abstractsekil\include\kare.h
+	<iostream>
+	"Dikdortgen.h"
+
+1430677803 c:\users\selim yavru\desktop\abstractsekil\include\sekil.h
+	<iostream>
+
+1430680481 c:\users\selim yavru\desktop\abstractsekil\include\ucgen.h
+	<iostream>
+	"Sekil.h"
+	<cmath>
+
+1430680213 source:c:\users\selim yavru\desktop\abstractsekil\src\sekil.cpp
+	"Sekil.h"
+	<iomanip>
+
+1430680539 source:c:\users\selim yavru\desktop\abstractsekil\src\ucgen.cpp
+	"Ucgen.h"
+
