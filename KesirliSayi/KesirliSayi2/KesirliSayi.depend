@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1427602362 source:/home/erdem/Masaüstü/KesirliSayi/main.cpp
+	<iostream>
+	<sstream>
+	"KesirliSayi.h"
+
+1427598401 /home/erdem/Masaüstü/KesirliSayi/include/KesirliSayi.h
+	<iostream>
+
+1427604065 source:/home/erdem/Masaüstü/KesirliSayi/src/KesirliSayi.cpp
+	"KesirliSayi.h"
+
+1427754272 source:c:\users\selim yavru\desktop\kesirlisayi2\main.cpp
+	<iostream>
+	<sstream>
+	"KesirliSayi.h"
+
+1427602001 c:\users\selim yavru\desktop\kesirlisayi2\include\kesirlisayi.h
+	<iostream>
+
+1427608283 source:c:\users\selim yavru\desktop\kesirlisayi2\src\kesirlisayi.cpp
+	"KesirliSayi.h"
+
+1427754274 source:i:\lab4\kesirlisayi2\main.cpp
+	<iostream>
+	<sstream>
+	"KesirliSayi.h"
+
+1427602002 i:\lab4\kesirlisayi2\include\kesirlisayi.h
+	<iostream>
+
+1427608284 source:i:\lab4\kesirlisayi2\src\kesirlisayi.cpp
+	"KesirliSayi.h"
+

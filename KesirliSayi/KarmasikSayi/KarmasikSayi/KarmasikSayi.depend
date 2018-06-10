@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1427697285 source:/home/tolga/Desktop/BIL112/Hafta5/KarmasikSayi/KarmasikSayi/src/KarmasikSayi.cpp
+	"KarmasikSayi.h"
+
+1427696282 /home/tolga/Desktop/BIL112/Hafta5/KarmasikSayi/KarmasikSayi/include/KarmasikSayi.h
+	<iostream>
+
+1427696311 source:/home/tolga/Desktop/BIL112/Hafta5/KarmasikSayi/KarmasikSayi/main.cpp
+	<iostream>
+	"KarmasikSayi.h"
+
+1427821679 source:d:\indirilenler\karmasiksayi\karmasiksayi\main.cpp
+	<iostream>
+	"KarmasikSayi.h"
+
+1427821689 d:\indirilenler\karmasiksayi\karmasiksayi\include\karmasiksayi.h
+	<iostream>
+
+1427700885 source:d:\indirilenler\karmasiksayi\karmasiksayi\src\karmasiksayi.cpp
+	"KarmasikSayi.h"
+
