@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1426075431 source:/home/syavru2014/Masaüstü/saat2/main.cpp
+	<iostream>
+	<iomanip>
+	"Ucgen.h"
+
+1426075431 /home/syavru2014/Masaüstü/saat2/include/Ucgen.h
+
+1426075660 source:/home/syavru2014/Masaüstü/saat2/src/Ucgen.cpp
+	"Ucgen.h"
+	<cmath>
+	<iostream>
+
