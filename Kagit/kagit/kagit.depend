@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1426421670 source:c:\users\selim yavru\desktop\kagit\main.cpp
+	<iostream>
+	"Kagit.h"
+
+1426421542 c:\users\selim yavru\desktop\kagit\include\kagit.h
+
+1426421345 source:c:\users\selim yavru\desktop\kagit\src\kagit.cpp
+	"Kagit.h"
+
+1426421672 source:i:\lab2\kagit\main.cpp
+	<iostream>
+	"Kagit.h"
+
+1426421544 i:\lab2\kagit\include\kagit.h
+
+1426421346 source:i:\lab2\kagit\src\kagit.cpp
+	"Kagit.h"
+
