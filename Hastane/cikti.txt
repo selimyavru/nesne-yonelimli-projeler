@@ -1,0 +1,139 @@
+Hastane Yönetim Sistemi
+-----------------------
+1. Doktor Ekle
+2. Doktorlari Listele
+3. Asistan Ekle
+4. Asistanlari Listele
+5. Bas Hekim Ata
+6. Bas Hekim Yazdir
+
+0. Cikis
+Islem seciniz: 1
+Doktorun Bilgilerini Giriniz
+Ad: Ad1
+Soyad: Soyad1
+
+Hastane Yönetim Sistemi
+-----------------------
+1. Doktor Ekle
+2. Doktorlari Listele
+3. Asistan Ekle
+4. Asistanlari Listele
+5. Bas Hekim Ata
+6. Bas Hekim Yazdir
+
+0. Cikis
+Islem seciniz: 1
+Doktorun Bilgilerini Giriniz
+Ad: Ad2
+Soyad: Soyad2
+
+Hastane Yönetim Sistemi
+-----------------------
+1. Doktor Ekle
+2. Doktorlari Listele
+3. Asistan Ekle
+4. Asistanlari Listele
+5. Bas Hekim Ata
+6. Bas Hekim Yazdir
+
+0. Cikis
+Islem seciniz: 2
+        Ad     Soyad     Gorev      Maas
+----------------------------------------
+       Ad1    Soyad1    Doktor      4000
+       Ad2    Soyad2    Doktor      4000
+
+Hastane Yönetim Sistemi
+-----------------------
+1. Doktor Ekle
+2. Doktorlari Listele
+3. Asistan Ekle
+4. Asistanlari Listele
+5. Bas Hekim Ata
+6. Bas Hekim Yazdir
+
+0. Cikis
+Islem seciniz: 3
+Asistanin Bilgilerini Giriniz
+Ad: Ad3
+Soyad: Soyad3
+Sinif: 1
+Bolum: KBB
+
+Hastane Yönetim Sistemi
+-----------------------
+1. Doktor Ekle
+2. Doktorlari Listele
+3. Asistan Ekle
+4. Asistanlari Listele
+5. Bas Hekim Ata
+6. Bas Hekim Yazdir
+
+0. Cikis
+Islem seciniz: 3
+Asistanin Bilgilerini Giriniz
+Ad: Ad4
+Soyad: Soyad4
+Sinif: 2
+Bolum: Goz
+
+Hastane Yönetim Sistemi
+-----------------------
+1. Doktor Ekle
+2. Doktorlari Listele
+3. Asistan Ekle
+4. Asistanlari Listele
+5. Bas Hekim Ata
+6. Bas Hekim Yazdir
+
+0. Cikis
+Islem seciniz: 4
+        Ad     Soyad     Gorev      Maas     Sinif       Gno
+------------------------------------------------------------
+       Ad3    Soyad3   Asistan      1500         1       KBB
+       Ad4    Soyad4   Asistan      1500         2       Goz
+
+Hastane Yönetim Sistemi
+-----------------------
+1. Doktor Ekle
+2. Doktorlari Listele
+3. Asistan Ekle
+4. Asistanlari Listele
+5. Bas Hekim Ata
+6. Bas Hekim Yazdir
+
+0. Cikis
+Islem seciniz: 5
+Bas Hekimin Bilgilerini Giriniz
+Ad: Ad5
+Soyad: Soyad5
+
+Hastane Yönetim Sistemi
+-----------------------
+1. Doktor Ekle
+2. Doktorlari Listele
+3. Asistan Ekle
+4. Asistanlari Listele
+5. Bas Hekim Ata
+6. Bas Hekim Yazdir
+
+0. Cikis
+Islem seciniz: 6
+        Ad     Soyad     Gorev      Maas
+----------------------------------------
+       Ad5    Soyad5 Bas Hekim      5000
+
+Hastane Yönetim Sistemi
+-----------------------
+1. Doktor Ekle
+2. Doktorlari Listele
+3. Asistan Ekle
+4. Asistanlari Listele
+5. Bas Hekim Ata
+6. Bas Hekim Yazdir
+
+0. Cikis
+Islem seciniz: 0
+Program kapatiliyor...
+
