@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1432061978 source:c:\users\selim yavru\desktop\adres\main.cpp
+	"AdresKayitSistemi.h"
+
+1432061926 c:\users\selim yavru\desktop\adres\include\adreskayitsistemi.h
+	<vector>
+	"Kisi.h"
+	<iostream>
+	<fstream>
+
+1432061929 c:\users\selim yavru\desktop\adres\include\kisi.h
+	<iostream>
+	<string>
+
+1432070169 source:c:\users\selim yavru\desktop\adres\src\adreskayitsistemi.cpp
+	"AdresKayitSistemi.h"
+
+1432061950 source:c:\users\selim yavru\desktop\adres\src\kisi.cpp
+	"Kisi.h"
+
